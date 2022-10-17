@@ -9,28 +9,45 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-table,
-th,
-td {
+table {
     border: 1px solid black;
+    width: 100%;
+}
+
+button {
+    font-size: large;
+    block-size: 60px;
+    inline-size: 60px;
+}
+
+p {
+    text-align: left;
 }
 
 td {
-    width: 30px;
+    width: 80px;
 }
 
-.App {
+.Frame {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 200px;
+    top: 30%;
+    left: 40%;
+    width: 400px;
 }
 
 #output {
-    width: 188px;
+    width: 99%;
+    height: 40px;
+    font-size: larger;
     border: 1px solid black;
 }
 
 .num_oper {
     width: 100%;
+}
+
+#instruction {
+    position: absolute;
+    top: 0;
+    left: 10px;
 }
