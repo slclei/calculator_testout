@@ -3,6 +3,10 @@ This is a calculator for testout homework assignment only.
 
 This calculator is written by Typescript with React. Following instructions are modified from default Readme from React app.
 
+## Install node.js
+
+In order to run this application, node.js is requried to be install locally. node.js can be downloaded from [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+
 ## Available Scripts
 
 In the project directory (/calculator_testout_calculator), you can run:
