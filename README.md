@@ -15,7 +15,7 @@ to install the required dependencies.
 
 Note: there is a privacy issue for powershell in Windows. It is prefered to be run in command prompt (cmd) in Windows, which can be found by search "cmd" in Windows.
 
-## Available Scripts
+## Run script
 
 In the project directory (/calculator_testout_calculator), you can run:
 
