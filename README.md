@@ -7,6 +7,14 @@ This calculator is written by Typescript with React. Following instructions are 
 
 In order to run this application, node.js is requried to be install locally. node.js can be downloaded from [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
+After installing node.js, go to the project dirctory (/calculator_testout_calculator) and run:
+
+### `npm install`
+
+to install the required dependencies.
+
+Note: there is a privacy issue for powershell in Windows. It is prefered to be run in command prompt (cmd) in Windows, which can be found by search "cmd" in Windows.
+
 ## Available Scripts
 
 In the project directory (/calculator_testout_calculator), you can run:
