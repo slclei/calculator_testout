@@ -7,7 +7,15 @@ This calculator is written by Typescript with React. Following instructions are 
 
 In order to run this application, node.js is requried to be install locally. node.js can be downloaded from [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
-## Available Scripts
+After installing node.js, go to the project dirctory (/calculator_testout_calculator) and run:
+
+### `npm install`
+
+to install the required dependencies.
+
+Note: there is a privacy issue for powershell in Windows. It is prefered to be run in command prompt (cmd) in Windows, which can be found by search "cmd" in Windows.
+
+## Run script
 
 In the project directory (/calculator_testout_calculator), you can run:
 
@@ -34,12 +42,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Next steps
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1 Add more features for calculation, like power exponent, root, or log.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2 Add a beautiful interface;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+3 Add input from keyboard.
